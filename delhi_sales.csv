@@ -1,0 +1,121 @@
+sale_date,product_category,units_sold,revenue,city
+2026-07-08,Beverages,120,6000,Delhi
+2026-07-08,Umbrellas,28,8400,Delhi
+2026-07-08,Ice Cream,100,4000,Delhi
+2026-07-08,Snacks,83,2075,Delhi
+2026-07-07,Beverages,138,6900,Delhi
+2026-07-07,Umbrellas,23,6900,Delhi
+2026-07-07,Ice Cream,138,5520,Delhi
+2026-07-07,Snacks,40,1000,Delhi
+2026-07-06,Beverages,119,5950,Delhi
+2026-07-06,Umbrellas,28,8400,Delhi
+2026-07-06,Ice Cream,82,3280,Delhi
+2026-07-06,Snacks,56,1400,Delhi
+2026-07-05,Beverages,109,5450,Delhi
+2026-07-05,Umbrellas,23,6900,Delhi
+2026-07-05,Ice Cream,129,5160,Delhi
+2026-07-05,Snacks,80,2000,Delhi
+2026-07-04,Beverages,126,6300,Delhi
+2026-07-04,Umbrellas,6,1800,Delhi
+2026-07-04,Ice Cream,80,3200,Delhi
+2026-07-04,Snacks,65,1625,Delhi
+2026-07-03,Beverages,125,6250,Delhi
+2026-07-03,Umbrellas,14,4200,Delhi
+2026-07-03,Ice Cream,138,5520,Delhi
+2026-07-03,Snacks,86,2150,Delhi
+2026-07-02,Beverages,142,7100,Delhi
+2026-07-02,Umbrellas,24,7200,Delhi
+2026-07-02,Ice Cream,113,4520,Delhi
+2026-07-02,Snacks,46,1150,Delhi
+2026-07-01,Beverages,123,6150,Delhi
+2026-07-01,Umbrellas,14,4200,Delhi
+2026-07-01,Ice Cream,94,3760,Delhi
+2026-07-01,Snacks,58,1450,Delhi
+2026-06-30,Beverages,119,5950,Delhi
+2026-06-30,Umbrellas,27,8100,Delhi
+2026-06-30,Ice Cream,130,5200,Delhi
+2026-06-30,Snacks,85,2125,Delhi
+2026-06-29,Beverages,115,5750,Delhi
+2026-06-29,Umbrellas,25,7500,Delhi
+2026-06-29,Ice Cream,141,5640,Delhi
+2026-06-29,Snacks,78,1950,Delhi
+2026-06-28,Beverages,119,5950,Delhi
+2026-06-28,Umbrellas,30,9000,Delhi
+2026-06-28,Ice Cream,127,5080,Delhi
+2026-06-28,Snacks,74,1850,Delhi
+2026-06-27,Beverages,127,6350,Delhi
+2026-06-27,Umbrellas,8,2400,Delhi
+2026-06-27,Ice Cream,85,3400,Delhi
+2026-06-27,Snacks,87,2175,Delhi
+2026-06-26,Beverages,135,6750,Delhi
+2026-06-26,Umbrellas,20,6000,Delhi
+2026-06-26,Ice Cream,85,3400,Delhi
+2026-06-26,Snacks,74,1850,Delhi
+2026-06-25,Beverages,132,6600,Delhi
+2026-06-25,Umbrellas,23,6900,Delhi
+2026-06-25,Ice Cream,112,4480,Delhi
+2026-06-25,Snacks,76,1900,Delhi
+2026-06-24,Beverages,87,4350,Delhi
+2026-06-24,Umbrellas,30,9000,Delhi
+2026-06-24,Ice Cream,129,5160,Delhi
+2026-06-24,Snacks,61,1525,Delhi
+2026-06-23,Beverages,110,5500,Delhi
+2026-06-23,Umbrellas,16,4800,Delhi
+2026-06-23,Ice Cream,118,4720,Delhi
+2026-06-23,Snacks,41,1025,Delhi
+2026-06-22,Beverages,89,4450,Delhi
+2026-06-22,Umbrellas,15,4500,Delhi
+2026-06-22,Ice Cream,89,3560,Delhi
+2026-06-22,Snacks,55,1375,Delhi
+2026-06-21,Beverages,104,5200,Delhi
+2026-06-21,Umbrellas,7,2100,Delhi
+2026-06-21,Ice Cream,150,6000,Delhi
+2026-06-21,Snacks,83,2075,Delhi
+2026-06-20,Beverages,100,5000,Delhi
+2026-06-20,Umbrellas,12,3600,Delhi
+2026-06-20,Ice Cream,113,4520,Delhi
+2026-06-20,Snacks,87,2175,Delhi
+2026-06-19,Beverages,137,6850,Delhi
+2026-06-19,Umbrellas,29,8700,Delhi
+2026-06-19,Ice Cream,93,3720,Delhi
+2026-06-19,Snacks,80,2000,Delhi
+2026-06-18,Beverages,121,6050,Delhi
+2026-06-18,Umbrellas,23,6900,Delhi
+2026-06-18,Ice Cream,113,4520,Delhi
+2026-06-18,Snacks,49,1225,Delhi
+2026-06-17,Beverages,87,4350,Delhi
+2026-06-17,Umbrellas,11,3300,Delhi
+2026-06-17,Ice Cream,130,5200,Delhi
+2026-06-17,Snacks,61,1525,Delhi
+2026-06-16,Beverages,85,4250,Delhi
+2026-06-16,Umbrellas,7,2100,Delhi
+2026-06-16,Ice Cream,122,4880,Delhi
+2026-06-16,Snacks,74,1850,Delhi
+2026-06-15,Beverages,110,5500,Delhi
+2026-06-15,Umbrellas,12,3600,Delhi
+2026-06-15,Ice Cream,88,3520,Delhi
+2026-06-15,Snacks,44,1100,Delhi
+2026-06-14,Beverages,145,7250,Delhi
+2026-06-14,Umbrellas,15,4500,Delhi
+2026-06-14,Ice Cream,134,5360,Delhi
+2026-06-14,Snacks,49,1225,Delhi
+2026-06-13,Beverages,124,6200,Delhi
+2026-06-13,Umbrellas,26,7800,Delhi
+2026-06-13,Ice Cream,146,5840,Delhi
+2026-06-13,Snacks,86,2150,Delhi
+2026-06-12,Beverages,89,4450,Delhi
+2026-06-12,Umbrellas,5,1500,Delhi
+2026-06-12,Ice Cream,112,4480,Delhi
+2026-06-12,Snacks,54,1350,Delhi
+2026-06-11,Beverages,146,7300,Delhi
+2026-06-11,Umbrellas,16,4800,Delhi
+2026-06-11,Ice Cream,116,4640,Delhi
+2026-06-11,Snacks,56,1400,Delhi
+2026-06-10,Beverages,121,6050,Delhi
+2026-06-10,Umbrellas,18,5400,Delhi
+2026-06-10,Ice Cream,87,3480,Delhi
+2026-06-10,Snacks,64,1600,Delhi
+2026-06-09,Beverages,91,4550,Delhi
+2026-06-09,Umbrellas,16,4800,Delhi
+2026-06-09,Ice Cream,133,5320,Delhi
+2026-06-09,Snacks,55,1375,Delhi
