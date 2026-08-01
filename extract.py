@@ -1,4 +1,3 @@
-
 import requests
 from datetime import datetime
 from config import OPENWEATHER_API_KEY, CITY, COUNTRY_CODE, WEATHER_URL
