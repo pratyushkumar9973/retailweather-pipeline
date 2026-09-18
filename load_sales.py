@@ -2,7 +2,6 @@ import pandas as pd
 from sqlalchemy import create_engine
 from config import DATABASE_URL
 
-
 def load_sales_csv():
     
     try:
@@ -22,6 +21,7 @@ def load_sales_csv():
     except Exception as e:
         print(f"Error loading sales: {e}")
         return False
+        
 
 
 if __name__ == "__main__":
