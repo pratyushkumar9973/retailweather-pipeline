@@ -50,6 +50,7 @@ def save_sales():
     
     df.to_sql('sales_raw', engine, if_exists='append', index=False)
     print(f"Saved {len(df)} sales records")
+    
 
 if __name__ == "__main__":
     generate_delhi_sales()
